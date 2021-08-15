@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>我的博客</title>
   
+  <subtitle>这是副标题</subtitle>
+  <link href="http://hxmt-x.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="http://hxmt-x.github.io/"/>
   <updated>2021-08-15T04:49:04.639Z</updated>
-  <id>http://example.com/</id>
+  <id>http://hxmt-x.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>hxmt-x</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/08/15/hello-world/"/>
-    <id>http://example.com/2021/08/15/hello-world/</id>
+    <link href="http://hxmt-x.github.io/2021/08/15/hello-world/"/>
+    <id>http://hxmt-x.github.io/2021/08/15/hello-world/</id>
     <published>2021-08-15T04:49:04.639Z</published>
     <updated>2021-08-15T04:49:04.639Z</updated>
     
