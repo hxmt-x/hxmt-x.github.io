@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>我的博客</title>
+  <title>槐夏满天の小站</title>
   
-  <subtitle>这是副标题</subtitle>
+  <subtitle>HXMT-X</subtitle>
   <link href="http://hxmt-x.github.io/atom.xml" rel="self"/>
   
   <link href="http://hxmt-x.github.io/"/>
